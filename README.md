@@ -20,8 +20,8 @@ The following technologies are used for this project:
 ### EDA Summary
   - Given below is a summary of the EDA results
   #### Data summary
-  ![first five rows of the dataset](image.jpg)
+  ![first five rows of the dataset](https://github.com/DPsalmist/data_analytics_project/blob/main/data_head.png)
 
   #### SVR Scatter Plot
-  ![svr result](image.jpg)
+  ![svr result](https://github.com/DPsalmist/data_analytics_project/blob/main/svr_scatterplot.png)
   
