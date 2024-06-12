@@ -25,3 +25,9 @@ The following technologies are used for this project:
   #### SVR Scatter Plot
   ![svr result](https://github.com/DPsalmist/data_analytics_project/blob/main/svr_scatterplot.png)
   
+
+### Insights
+You can put your insights here.
+
+### Conclusion
+In concusin, this and that were the results of the project and we can see that there's a lot of room for improvement. 
